@@ -1,0 +1,6 @@
+{
+  "name": "expoglfr",
+  "ios": {
+    "bundleIdentifier": "com.bankrchris.expoglfr"
+  }
+}
